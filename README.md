@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [CodeStream Translation](https://github.com/TeamCodeStream/codestream)
 
-- 👨‍💻 All of my projects are available at [https://talkysafe143.github.io/](https://talkysafe143.github.io/)
+- 👨‍💻 All of my projects will be available at [https://talkysafe143.github.io/](https://talkysafe143.github.io/)
 
 - 💬 Ask me about **react**
 
