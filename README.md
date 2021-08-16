@@ -5,7 +5,7 @@
 <a href="https://twitter.com/galindooo__" target="blank"><img src="https://img.shields.io/twitter/follow/galindooo__?logo=twitter&style=for-the-badge" alt="galindooo__" /></a>
 </p> 
 
-- 🔭 I’m currently working on [Professional JavaScript!](https://github.com/TalkySafe143/professional-javascript)
+- 🔭 I’m currently working on [A IoT platform!](https://github.com/TalkySafe143/platziverse)
 
 - 🌱 I’m currently learning **NodeJS**
 
