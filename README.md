@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastian Galindo</h1>
 <h3 align="center">A back-end developer in learning. 🖥️</h3>
-<p align="center"><img src="https://i.imgur.com/LtABnYf.jpg"></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=talkysafe143&label=Profile%20views&color=0e75b6&style=flat" alt="talkysafe143" /> 
 <a href="https://twitter.com/galindooo__" target="blank"><img src="https://img.shields.io/twitter/follow/galindooo__?logo=twitter&style=for-the-badge" alt="galindooo__" /></a>
 </p> 
