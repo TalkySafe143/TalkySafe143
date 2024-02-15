@@ -19,8 +19,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TalkySafe143&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TalkySafe143&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TalkySafe143&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=TalkySafe143&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&border_radius=10" height="195" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TalkySafe143&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&border_radius=10" height="195" alt="languages graph"  />
 </div>
 
 ###
@@ -94,6 +95,16 @@
 <div align="center">
   <img height="1" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
 </div>
+<div align="center">
+  <img src="https://github.com/TalkySafe143/TalkySafe143/blob/output/github-contribution-grid-snake-dark.svg"  />
+</div>
+
+
+<br clear="both">
+
+<div align="center">
+  <img height="1" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
+</div>
 
 ###
 
@@ -110,3 +121,5 @@
 </div>
 
 ###
+
+
